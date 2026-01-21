@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "unnecessary-anvil-tweaks",
+	"version": "${version}",
+	"name": "(Un)Necessary Anvil Tweaks",
+	"description": "Unnecessarily necessary tweaks for your anvil interface. Because who said repair costs can't be fabulous?",
+	"authors": [
+		"Astralis"
+	],
+	"license": "MIT",
+	"environment": "client",
+
+	"entrypoints": {
+		"main": [
+			"com.astralis.UnnecessaryAnvilTweaks"
+		],
+		"modmenu": [
+			"com.astralis.ModMenuIntegration"
+		]
+	},
+
+	"mixins": [
+		"unnecessary-anvil-tweaks.client.mixins.json"
+	],
+
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+
+	"contact": {
+		"homepage": "https://modrinth.com/mod/unnecessary-anvil-tweaks",
+		"issues": "https://github.com/AstralisDev/unnecessary-anvil-tweaks/issues",
+		"sources": "https://github.com/AstralisDev/unnecessary-anvil-tweaks"
+	},
+
+	"icon": "assets/unnecessary-anvil-tweaks/icon.png"
+
+}
