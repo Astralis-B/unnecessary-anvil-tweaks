@@ -1,7 +1,5 @@
 ![#(Un)Necessary Anvil Tweaks](https://cdn.modrinth.com/data/cached_images/c5c9d0a0947efee011c084c5dec85480bd8c5114.png)
 
-# (Un)Necessary Anvil Tweaks
-
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green)
 ![Fabric](https://img.shields.io/badge/Modloader-Fabric-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
