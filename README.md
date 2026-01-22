@@ -28,8 +28,9 @@ Because the vanilla anvil interface is... well, necessary but boring. This mod a
 ## 🚀 Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
-2. Download the latest version from [Modrinth](https://modrinth.com/mod/unnecessary-anvil-tweaks)
-3. Place the JAR file in your `.minecraft/mods/` folder
+2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
+3. Download from [Modrinth](https://modrinth.com/mod/lowdurabilitywarning)
+4. Place the JAR file in your `.minecraft/mods/` folder
 
 ## ⚙️ Configuration
 
@@ -60,8 +61,8 @@ Found a bug or have a suggestion?
 Please include:
 - Minecraft version
 - Mod version
-- Other mods installed
-- Steps to reproduce
+- Other installed mods
+- Steps to reproduce the issue
 
 ## 🙏 Credits
 
