@@ -65,11 +65,11 @@ servers.dat
 *.jks
 *.properties
 credentials.json
-config/ # ¡Cuidado! Solo si no quieres commitear configs
+config/
 local.properties
 gradle.properties
 
-# Gradle wrapper (opcional - normalmente SÍ se commitea)
+# Gradle wrapper
 !gradle/wrapper/gradle-wrapper.jar
 
 # Archivos temporales
