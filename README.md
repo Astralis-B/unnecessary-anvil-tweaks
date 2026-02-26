@@ -29,7 +29,7 @@ Because the vanilla anvil interface is... well, necessary but boring. This mod a
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
 2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
-3. Download from [(Un)Necessary Anvil Tweaks](https://modrinth.com/mod/(un)necessary-anvil-tweaks/versions)
+3. Download [(Un)Necessary Anvil Tweaks](https://modrinth.com/mod/(un)necessary-anvil-tweaks/versions)
 4. Place the JAR file in your `.minecraft/mods/` folder
 
 ## ⚙️ Configuration
