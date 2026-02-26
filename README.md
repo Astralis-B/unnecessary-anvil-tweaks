@@ -1,4 +1,4 @@
-![#(Un)Necessary Anvil Tweaks](https://cdn.modrinth.com/data/cached_images/c5c9d0a0947efee011c084c5dec85480bd8c5114.png)
+![#(Un)Necessary Anvil Tweaks](https://cdn.modrinth.com/data/cached_images/d7820c3ba0f9c3eab53aabc477fe12f4f2b6aa1f.png)
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green)
 ![Fabric](https://img.shields.io/badge/Modloader-Fabric-blue)
@@ -29,7 +29,7 @@ Because the vanilla anvil interface is... well, necessary but boring. This mod a
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
 2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
-3. Download from [Modrinth](https://modrinth.com/mod/lowdurabilitywarning)
+3. Download from [(Un)Necessary Anvil Tweaks](https://modrinth.com/mod/(un)necessary-anvil-tweaks/versions)
 4. Place the JAR file in your `.minecraft/mods/` folder
 
 ## ⚙️ Configuration
